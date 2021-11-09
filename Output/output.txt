@@ -1,0 +1,1 @@
+{"review":"\"Camera is bulky. Deal is good. steep learning curve.\"","topics":[{"aspect":{"Size and Build Quality":0.9994020827789597},"sentence":"\"Camera is bulky."},{"aspect":{"General":0.10375086753618058,"Price":0.6795107988332185},"sentence":"Deal is good."},{"aspect":{"Ease of Use":0.9997154894671206},"sentence":"steep learning curve.\""}]}
